@@ -1,0 +1,39 @@
+th {
+    font-weight: 800;
+}
+table{
+    font-family : Helvetica, sans-serif;
+}
+table {
+    border-collapse: collapse;
+}
+th {
+    font-weight     : 800;
+    background-color: #2695A6;
+    color           : #ffffff09;
+}
+table{
+    font-family    : Helvetica, sans-sarif;
+    border-collapse: collapse;
+    border-width   : 5px;
+    border-style   : solid;
+    border-color   : #2695A6;
+    color: darkblue;
+    text-align: center;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font size: 50px;
+    color: darkblue;
+    font-style: bold;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    font size: 90px;
+    color: darkblue;
+    font-style: bold;
+}
+
+
